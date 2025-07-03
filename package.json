@@ -10,7 +10,8 @@
     "start:prod": "node build/server.js",
     "build": "tsup src --out-dir build",
     "lint": "prettier ./src/ --write && eslint \"**/*.{ts,tsx}\" --fix",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "postinstall": "npx prisma migrate deploy"
   },
   "keywords": [],
   "author": "",
