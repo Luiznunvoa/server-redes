@@ -1,6 +1,10 @@
-# My Back End
+# Servidor do Trabalho de Redes
 
-Este é o projeto de back-end para a matéria de Redes de Computadores.
+Server e esquema de banco de dados para o trabalho final da disciplina de Redes de Computadores da Universidade Fdereal Fluminense
+
+# Descrição
+
+
 
 ## Como executar localmente
 
