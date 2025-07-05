@@ -1,6 +1,6 @@
 # API de Chat em Tempo Real
 
-Este projeto é uma API backend robusta para uma aplicação de chat em tempo real, desenvolvida para a disciplina de Redes de Computadores da Universidade Federal Fluminense. Ele fornece um conjunto completo de funcionalidades para gerenciamento de usuários, conversas e mensagens.
+Este projeto é uma **API backend**, somada com um **Banco de Dados** robusto para uma aplicação de chat em tempo real, desenvolvida para a disciplina de Redes de Computadores da Universidade Federal Fluminense. Ele fornece um conjunto completo de funcionalidades para gerenciamento de usuários, conversas e mensagens.
 
 ## Funcionalidades
 
@@ -58,6 +58,10 @@ Para executar o projeto localmente, siga os seguintes passos:
 
 O servidor estará disponível em `http://localhost:3000`.
 
+## Front-end Implementado para esta API
+
+- [Cliente-Redes](https://github.com/Luiznunvoa/client-redes)
+  
 ## Rotas da API
 
 A seguir estão listadas as rotas da API e suas funcionalidades:
